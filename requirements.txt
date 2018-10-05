@@ -1,0 +1,2 @@
+django==1.11
+graphene-django-subscriptions==0.0.4
